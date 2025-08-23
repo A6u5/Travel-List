@@ -1,5 +1,7 @@
 # 🌍 Travel List 🧳
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A web application built with **React** to help you organize and track the essential items for your next trip. Ideal for travelers who don’t want to forget a thing before heading out.
 
 ## ✨ Features
